@@ -1,2 +1,2 @@
-# Bloxstrip
+# Imagelogger
 Best Cheat !
